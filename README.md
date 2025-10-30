@@ -20,7 +20,7 @@
 
 [📞 联系方式](#感谢您的时间与审阅)
 
-**注**：部分证明文件因体积较大，GitHub可能无法直接预览。若遇到此情况，请点击链接后，在打开的GitHub页面寻找 **"Download"** 按钮或使用右键菜单的 **“链接另存为”** 进行下载后查看。
+**	注**：部分证明文件因体积较大，GitHub可能无法直接预览。若遇到此情况，请点击链接后，在打开的GitHub页面寻找 **"Download"** 按钮或使用右键菜单的 **“链接另存为”** 进行下载后查看。
 
 ## 核心能力证书摘要
 
@@ -127,7 +127,9 @@
 ### 样本量计算智能助手（SSEA）– R-Shiny 全栈开发
 
 **项目描述：** 主导开发的零代码临床研究样本量计算平台，覆盖 RCT、观察性研究、诊断试验等 20+ 研究场景。
+
 **关键技术：** R-Shiny、统计建模、参数转换（率差→OR、Cohen's f）
+
 **项目成果：** 误差率 < 0.1%，显著降低用户操作错误率
 
 **项目链接:** https://smuonco.shinyapps.io/SSEA/
@@ -181,17 +183,17 @@
 
 - 《[生存分析-左截断数据基于面积法的假设检验方法](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/生存分析_左截断数据基于面积法的假设检验方法.pdf) 》
 
-- 《 [时间序列分析-循环神经网络模型的应用比较研究 ](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/时间序列分析_循环神经网络模型的应用比较研究 .pdf) 》
+- 《 [时间序列分析-循环神经网络模型的应用比较研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/时间序列分析_循环神经网络模型的应用比较研究 .pdf) 》
 
 - 《[统计模拟-两阶段交叉设计率比较检验方法的模拟研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/统计模拟_两阶段交叉设计率比较检验方法的模拟研究.pdf) 》
 
 - 《 [遗传统计学_遗传变异的因果结构学习——基于双向介导MR（BIMMER)与结合图论和MVMR的因果网络修剪方法（MRSL）](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/遗传统计学_遗传变异的因果结构学习——基于双向介导MR（BIMMER)》
 
-  等共 9 篇专业文档（详见[【03项目证明文件】](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明文件)）
+  等共 9 篇专业文档（详见[【03项目证明】](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明)）
 
 ### 个人写作与内容创作
 
-擅长通过文字探索叙事结构与情感共鸣，累计创作影评与游记数万字，单篇最高阅读量6,000+。具有出色的共情能力、逻辑分析与内容转化能力。
+​	擅长通过文字探索叙事结构与情感共鸣，累计创作影评与游记数万字，单篇最高阅读量6,000+。具有出色的共情能力、逻辑分析与内容转化能力。
 
 精选作品：
 
@@ -202,7 +204,7 @@
 
 #### 公众号【嗨森的糖罐子】｜原创内容输出者
 
-持续输出**专业知识总结、项目经验与生活洞察**，构建个人内容体系与专业影响力。累计发表原创内容 **10+ 篇**，涵盖机器学习、数据管理、多元统计等多个专业领域，多篇文章阅读量破百，互动率表现优异。
+​	持续输出**专业知识总结、项目经验与生活洞察**，构建个人内容体系与专业影响力。累计发表原创内容 **10+ 篇**，涵盖机器学习、数据管理、多元统计等多个专业领域，多篇文章阅读量破百，互动率表现优异。
 
 <img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/IMG_0819.JPG" alt="微信公众号" style="zoom:33%;" />
 
@@ -210,7 +212,7 @@
 
 - 《[专业课数据管理期末复习](https://mp.weixin.qq.com/s/K5MZKNjDPhyqJHvlvPYBFA?token=726076116&lang=zh_CN)》｜**阅读 107，点赞率 16.82%**
 - 《[专业课多元统计分析期末复习](https://mp.weixin.qq.com/s/8BmtPAOR12AZz6NJec3NwA?token=726076116&lang=zh_CN)》｜**阅读 115，点赞率 13.04%**
-- 《[专业课机器学习期末复习]([专业课|机器学习期末复习](https://mp.weixin.qq.com/s/K2wg8cWAtxniIJC9vjD7Sg))》｜原创技术笔记
+- 《[专业课机器学习期末复习](https://mp.weixin.qq.com/s/K2wg8cWAtxniIJC9vjD7Sg)》｜原创技术笔记
 - 《[生物信息学：分子系统发育分析](https://mp.weixin.qq.com/s/eZFed-KVp0Nt3D1PeHARHA?token=726076116&lang=zh_CN)》｜实验方法与实操总结
 - 《[考研英语2020/2021生词本](https://mp.weixin.qq.com/s/_BbYKj5wy670RqbtBesmjw?token=726076116&lang=zh_CN)》｜系统整理高频考点，阅读破百
 
