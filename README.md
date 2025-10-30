@@ -132,6 +132,8 @@
 
 **项目成果：** 误差率 < 0.1%，显著降低用户操作错误率
 
+![SSEA](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20251030221450212.png)
+
 **项目链接:** https://smuonco.shinyapps.io/SSEA/
 
 **使用教程系列推文：**
