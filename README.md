@@ -9,14 +9,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-```
 ## 📑 目录
-- [🎓 教育背景](#学术成绩证明)
-- [🏆 证书荣誉](#核心能力证书摘要)
-- [📊 项目经历](#项目与作品集)
-- [🌏 国际视野](#国际经历与综合视野)
-- [📞 联系方式](#感谢您的时间与审阅)
-```
+[🎓 教育背景](#学术成绩证明)
+
+[🏆 证书荣誉](#核心能力证书摘要)
+
+[📊 项目经历](#项目与作品集)
+
+[🌏 国际视野](#国际经历与综合视野)
+
+[📞 联系方式](#感谢您的时间与审阅)
 
 **注**：部分证明文件因体积较大，GitHub可能无法直接预览。若遇到此情况，请点击链接后，在打开的GitHub页面寻找 **"Download"** 按钮或使用右键菜单的 **“链接另存为”** 进行下载后查看。
 
