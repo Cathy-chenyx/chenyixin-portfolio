@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-default-layout
+include:
+  - .nojekyll
+markdown: kramdown
