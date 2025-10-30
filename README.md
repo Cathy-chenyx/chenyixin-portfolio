@@ -29,16 +29,19 @@
 | SAS Base 程序员认证    | SAS Institute | 2025.05  | 通过         | [SAS Base 程序员认证](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.2_SAS_base证书.pdf) |
 | 全国大学生数学建模竞赛 | 广东省教育厅  | 2024.12  | 广东省三等奖 | [数学建模证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) |
 | 大学英语六级 (CET-6)   | 教育部        | 2025.06  | 546分        | [CET6 - 546.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.5_CET6_546.pdf) |
-| 全国计算机二级         | 教育部        | 2023.03  | 优秀         | [计算机二级证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.3计算机二级证书.pdf) |
+| 全国计算机二级         | 教育部        | 2023.03  | 通过         | [计算机二级证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.3计算机二级证书.pdf) |
 
 ## 学术成绩证明 
 
 **官方成绩单 (2022-2025)**
 
 - 总平均绩点：3.5/5.0 
+
 - 专业排名：15/39
+
 - 核心专业课程：循证医学（97）、生存分析（96.5）、R语言（95）、临床试验设计（95.7）、统计建模（94.9）等成绩优异
-  查看完整成绩单:  [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
+  
+  查看成绩单:  [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
 
 ## 竞赛获奖与综合荣誉 
 
@@ -72,9 +75,10 @@
 ​	作为团队核心主力，在**中国大学生健美操锦标赛**及**广东省大学生健美操锦标赛**中，于**三人操、混合双人操、五人操**等多个集体项目中取得顶尖名次，展现了卓越的协同作战能力。
 
 官方新闻链接🔗
-[五金二银一铜，连续三年团体总分第一！我校健美操队在省锦标赛掀起“南医旋风”](https://www.smu.edu.cn/info/1139/35559.htm)
-[校健美操队在中国大学生健美操锦标赛上获4枚铜牌](https://www.smu.edu.cn/info/1139/60389.htm)
-[健美操队闪耀省大运会赛场 技术突破与艺术表现双“银”](https://news.smu.edu.cn/info/1014/115606.htm)
+
+- [五金二银一铜，连续三年团体总分第一！我校健美操队在省锦标赛掀起“南医旋风”](https://www.smu.edu.cn/info/1139/35559.htm)
+- [校健美操队在中国大学生健美操锦标赛上获4枚铜牌](https://www.smu.edu.cn/info/1139/60389.htm)
+- [健美操队闪耀省大运会赛场 技术突破与艺术表现双“银”](https://news.smu.edu.cn/info/1014/115606.htm)
 
 <img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/6D567E6C6898564E3EEDD90083B_E97C91E0_21B7F.jpeg" alt="省赛徒手操" style="zoom:33%;" />
 
