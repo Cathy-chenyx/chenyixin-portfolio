@@ -26,12 +26,12 @@
 
 ## 学术成绩证明 
 
-> **官方成绩单 (2022-2025)**
->
-> - 总平均绩点：3.5/5.0 
-> - 专业排名：15/39
-> - 核心专业课程：循证医学（97）、生存分析（96.5）、R语言（95）、临床试验设计（95.7）、统计建模（94.9）等成绩优异
->   **查看完整成绩单: ** [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
+**官方成绩单 (2022-2025)**
+
+- 总平均绩点：3.5/5.0 
+- 专业排名：15/39
+- 核心专业课程：循证医学（97）、生存分析（96.5）、R语言（95）、临床试验设计（95.7）、统计建模（94.9）等成绩优异
+  **查看完整成绩单: ** [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
 
 ------
 
@@ -39,47 +39,42 @@
 
 ### 学术竞赛荣誉
 
-> - **2024年 SAS 中国高校数据分析大赛** - **全国二等奖**
->
->   > **证明材料:**  [SAS大赛获奖证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/SAS大赛获奖证书.pdf) [官方新闻链接](https://mp.weixin.qq.com/s/20FoBxp0UPmD3oKTmZS1yw)
->
-> - **2024年 全国大学生数学建模竞赛** - **广东省三等奖**
->   
-> > **证明材料:**  [数学建模国赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) 
-> 
-> - **2024年 美国大学生数学建模竞赛 - S奖**
-> 
-> > **证明材料:** [数学建模美赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/美国大学生数学建模S奖.pdf) 
-> 
+- **2024年 SAS 中国高校数据分析大赛** - **全国二等奖**
+**证明材料:**  [SAS大赛获奖证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/SAS大赛获奖证书.pdf) [官方新闻链接](https://mp.weixin.qq.com/s/20FoBxp0UPmD3oKTmZS1yw)
+- **2024年 全国大学生数学建模竞赛** - **广东省三等奖**
+  **证明材料:**  [数学建模国赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) 
+- 2024年 美国大学生数学建模竞赛 - S奖**
+  **证明材料:** [数学建模美赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/美国大学生数学建模S奖.pdf) 
 
 ### 校内荣誉 
 
-> - **校一等奖学金** (2023-2024) - *授予专业排名前2%的学生*
->- **校优秀学生** (2023-2024) - *表彰全面发展的优秀学生*
->   **证明材料:**   [校内荣誉.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.2校内荣誉/校内荣誉.pdf) 
->
+- **校一等奖学金** (2023-2024) - *授予专业排名前2%的学生*
+- **校优秀学生** (2023-2024) - *表彰全面发展的优秀学生*
+  **证明材料:**   [校内荣誉.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.2校内荣誉/校内荣誉.pdf) 
 
 ### 体育竞技成就
 
 > ​	累计荣获**国家级赛事银牌1项**、**铜牌1项**，**省级赛事金牌1项**、**银牌2项**，共计6项省级及以上高含金量奖项。
 >
-> ​	作为团队核心主力，在**中国大学生健美操锦标赛**及**广东省大学生健美操锦标赛**中，于**三人操、混合双人操、五人操**等多个集体项目中取得顶尖名次，展现了卓越的协同作战能力。<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/6D567E6C6898564E3EEDD90083B_E97C91E0_21B7F.jpeg" alt="省赛徒手操" style="zoom:33%;" />
+> ​	作为团队核心主力，在**中国大学生健美操锦标赛**及**广东省大学生健美操锦标赛**中，于**三人操、混合双人操、五人操**等多个集体项目中取得顶尖名次，展现了卓越的协同作战能力。
+>
+> <img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/6D567E6C6898564E3EEDD90083B_E97C91E0_21B7F.jpeg" alt="省赛徒手操" style="zoom:33%;" />
 >
 > * **中国大学生健美操锦标赛 - 全国亚军** (2023)
->   
+>
 > > **证明材料:**  [国赛亚军.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2023年中国大学生健美操锦标赛_亚军.pdf) 
-> 
+>
 > - **广东省大学生健美操锦标赛 - 团体总分第一名 & 徒手操冠军** (2024 & 2023)
-> 
+>
 > > 作为团队绝对主力，两年内率队蝉联省级锦标赛**团体最高荣誉**，并个人主导项目斩获**省级冠军**，证明了持续的统治级表现与领导力。
 >   >  **证明材料:** [徒手操冠军.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2023广东省大学生健美操_徒手操_冠军.pdf)  [团体总分.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2024年广东省大学生健美操锦标赛_团体总分_第一名.pdf.pdf) 
-> 
+>
 > - **中国大学生健美操锦标赛 - 有氧踏板 第三名** (2024)
 >
 >  > 在同一顶级赛事中，于不同项目上再次夺得国家级奖牌，体现了全面的技术适应性与稳定的高水平发挥。
 >  >
 >   > **证明材料:**  [有氧踏板第三名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/第18届中国大学生健美操锦标赛_有氧踏板_第三名.pdf) 
-> 
+>
 > - **多项国家级、省级赛事集体项目四强** (三人操、混合双人操、五人操)
 >
 >  > 在多个强调高度协同的集体项目中，作为核心成员均取得全国及省级前四强的优异成绩，是团队协作与信任精神的最佳证明。
@@ -89,19 +84,19 @@
 >   > [2024国赛混合双人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/第18届中国大学生健美操锦标赛_混合双人操_第四名.pdf)  
 >  > [2024年省赛有氧踏板_第五名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2024年省赛有氧踏板_第五名.pdf.pdf)  
 >   > [广东省大运会三人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/广东省第十二届大学生运动会健美操_三人操_第四名.jpg.pdf) 
-> 
-> **4. 其他校园活动与奖项 **
+>
+> ### **其他校园活动与奖项 **
 >
 > - 南方医科大学大满贯篮球赛冠军（2024）
-> 
+>
 > - 南方医科大学凤翔杯篮球赛亚军 (2023)
-> 
->- 南方医科大学凤翔杯乒乓球比赛第四名（2023）
-> 
+>
+> - 南方医科大学凤翔杯乒乓球比赛第四名（2023）
+>
 > - 南方医科大学校运会跳远第五名（2023）
-> 
+>
 > - 南方医科大学跳绳比赛第五名（2024）
-> 
+>
 > **证明材料:详见【04补充材料】**
 
 ------
