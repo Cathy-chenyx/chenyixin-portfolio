@@ -185,7 +185,7 @@
 
 - 《[生存分析-左截断数据基于面积法的假设检验方法](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/生存分析_左截断数据基于面积法的假设检验方法.pdf) 》
 
-- 《 [时间序列分析-循环神经网络模型的应用比较研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/时间序列分析_循环神经网络模型的应用比较研究 .pdf) 》
+- 《 [时间序列分析-循环神经网络模型的应用比较研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/时间序列分析_循环神经网络模型的应用比较研究.pdf) 》
 
 - 《[统计模拟-两阶段交叉设计率比较检验方法的模拟研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/统计模拟_两阶段交叉设计率比较检验方法的模拟研究.pdf) 》
 
