@@ -6,8 +6,10 @@
 ![Shiny](https://img.shields.io/badge/Shiny-0B7DBC?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-FF0000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[TOC]
+
 
 **注**：部分证明文件因体积较大，GitHub可能无法直接预览。若遇到此情况，请点击链接后，在打开的GitHub页面寻找 **"Download"** 按钮或使用右键菜单的 **“链接另存为”** 进行下载后查看。
 
