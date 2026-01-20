@@ -27,7 +27,7 @@
 | 证书名称                     | 颁发机构                         | 获得时间 | 级别/成绩    | 证明材料方式                                                 |
 | :--------------------------- | :------------------------------- | :------- | :----------- | :----------------------------------------------------------- |
 | SAS Base 程序员认证          | SAS Institute                    | 2025.05  | 通过         | [SAS Base 程序员认证](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.2_SAS_base证书.pdf) |
-| **统计专业技术资格（初级）** | 人力资源和社会保障部、国家统计局 | **2025** | 通过)        |                                                              |
+| **统计专业技术资格（初级）** | 人力资源和社会保障部、国家统计局 | **2025** | 通过)        | [初级统计师成绩查询截图](https://github.com/Cathy-chenyx/chenyixin-portfolio/blob/main/01专业能力/1.6_统计初级考试成绩.png.png) |
 | 全国大学生数学建模竞赛       | 广东省教育厅                     | 2024.12  | 广东省三等奖 | [数学建模证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) |
 | 大学英语六级 (CET-6)         | 教育部                           | 2025.06  | 546分        | [CET6 - 546.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.5_CET6_546.pdf) |
 | 全国计算机二级               | 教育部                           | 2023.03  | 通过         | [计算机二级证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.3计算机二级证书.pdf) |
