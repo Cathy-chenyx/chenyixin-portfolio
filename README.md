@@ -26,10 +26,10 @@
 
 | 证书名称                     | 颁发机构                         | 获得时间 | 级别/成绩    | 证明材料方式                                                 |
 | :--------------------------- | :------------------------------- | :------- | :----------- | :----------------------------------------------------------- |
+| **统计专业技术资格（初级）** | 人力资源和社会保障部、国家统计局 | 2025.10  | 通过         | [初级统计师证书](https://github.com/Cathy-chenyx/chenyixin-portfolio/blob/main/01%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B/1.6%E5%88%9D%E7%BA%A7%E7%BB%9F%E8%AE%A1%E5%B8%88%E8%AF%81%E4%B9%A6.pdf) |
 | SAS Base 程序员认证          | SAS Institute                    | 2025.05  | 通过         | [SAS Base 程序员认证](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.2_SAS_base证书.pdf) |
-| **统计专业技术资格（初级）** | 人力资源和社会保障部、国家统计局 | **2025** | 通过)        | [初级统计师证书](https://github.com/Cathy-chenyx/chenyixin-portfolio/blob/main/01%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B/1.6%E5%88%9D%E7%BA%A7%E7%BB%9F%E8%AE%A1%E5%B8%88%E8%AF%81%E4%B9%A6.pdf) |
-| 全国大学生数学建模竞赛       | 广东省教育厅                     | 2024.12  | 广东省三等奖 | [数学建模证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) |
 | 大学英语六级 (CET-6)         | 教育部                           | 2025.06  | 546分        | [CET6 - 546.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.5_CET6_546.pdf) |
+| 全国大学生数学建模竞赛       | 广东省教育厅                     | 2024.12  | 广东省三等奖 | [数学建模证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) |
 | 全国计算机二级               | 教育部                           | 2023.03  | 通过         | [计算机二级证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.3计算机二级证书.pdf) |
 
 ## 学术成绩证明 
@@ -171,7 +171,9 @@
 
 ### 亚太地区消化道癌症负担 GBD 数据分析
 
-**![【全球格局可视化】发病率与DALYs的全球区域异质性及长期趋势](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/【全球格局可视化】发病率与DALYs的全球区域异质性及长期趋势-20260310194117811.png)项目描述：** 基于全球疾病负担（GBD）数据，分析亚太地区消化道癌症的流行病学趋势与地区差异。
+**![【全球格局可视化】发病率与DALYs的全球区域异质性及长期趋势](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/【全球格局可视化】发病率与DALYs的全球区域异质性及长期趋势-20260310194117811.png)**
+
+**项目描述：** 基于全球疾病负担（GBD）数据，分析亚太地区消化道癌症的流行病学趋势与地区差异。
 
 **关键技术：** Joinpoint 回归、APC 分析、ICD-10 编码标准化、数据可视化
 
