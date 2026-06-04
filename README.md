@@ -48,6 +48,8 @@
 
 ### 学术竞赛荣誉
 
+![SAS大赛](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/SAS%E5%A4%A7%E8%B5%9B.jpg)
+
 - **2024年 SAS 中国高校数据分析大赛** - **全国二等奖**
 
   **证明材料:**  [SAS大赛获奖证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/SAS大赛获奖证书.pdf) 
@@ -129,7 +131,7 @@
 
 ### 其他校园活动与奖项 
 
-![篮球比赛](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/480519c2364b7b76c8e1e3b5958829d6.jpg)
+<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/480519c2364b7b76c8e1e3b5958829d6.jpg" alt="篮球比赛" style="zoom:33%;" />
 
 - 南方医科大学大满贯篮球赛冠军（2024）
 
@@ -145,38 +147,99 @@
 
 ## 实习经历
 
-### 精鼎医药（Parexel International）——RWD Intern 
+### 精鼎医药（Parexel International）——RWD Strategy Intern 
 
-真实世界数据实习生	*2026年3月 – 至今 | 广州*
+真实世界数据战略实习生	*2026年3月 – 至今（约3个月） | 广州*
 
-作为全球顶尖CRO公司（合同研究组织）的真实世界数据团队实习生，深度参与多项跨国真实世界研究（RWD）项目的前期数据调研与支持工作，积累了从文献检索、数据源评估到跨团队协作的实战经验。
+作为全球顶尖CRO公司（合同研究组织）亚太区RWD战略团队实习生，深度参与多项跨国真实世界研究（RWE）项目的全流程支持工作，服务客户覆盖**GSK、Grifols、阿斯利康、强生、Astellas**等全球药企，积累了从IAP/IAI/IAR文档编写、数据源可行性评估、成本预算谈判到英文客户会议汇报的完整项目经验。
 
-### 印度NSCLC真实世界数据源调研
+---
 
-- **目标**：为阿斯利康Savotinib项目（MET突变NSCLC）提供印度地区数据源支持
-- **行动**：
-  - 独立完成PubMed、Web of Science文献检索，系统梳理印度NSCLC真实世界研究
-  - 整理出**17个潜在数据源**，涵盖TMH、AIIMS、RGCI等印度顶级医疗机构
-  - 重点发现**Batra 2025 MET ex14研究**（49例，RGCI+TMH合作），为团队锁定关键数据源线索
-  - 与团队成员建立共享Excel协作机制，优化数据源表格结构
-- **成果**：为项目提供了扎实的数据源背景资料，支持后续研究设计
+### GSK慢性乙型肝炎（CHB）项目 — IAR/IAI终版交付与跨地区报价管理
 
-###  中东地区多发性骨髓瘤数据源调研
+- **项目背景**：GSK委托Parexel进行亚太区慢乙肝真实世界数据源可行性评估，涉及10+数据源（韩国SMC/SNUH/Severance、台湾NHIRD、新加坡NUHS、澳大利亚REACH-B、Kingpoint、联仁等）
+- **核心贡献**：
+  - **IAR/IAI文档终版交付**：根据客户comments修订Informatics Assessment Report（统一格式、删除批注），更新IAI中的报价和患者人数信息，完成所有版本IAR/IAI的最终归档
+  - **患者人数与成本汇总表**：按"国家–数据源–患者人数–Total Cost–Cost per Patient"横版结构整理亚太多国数据，统一成人患者口径，完成人民币→英镑汇率换算
+  - **数据源报价跟踪**：跟进联仁（多次报价更新：300+万→450+万）、Kingpoint（最终1500万含税）等数据源报价变化，分析费用构成（数据治理费、统计分析费等）
+  - **客户沟通**：向Jaime Smith发送英文邮件汇报数据源费用调研结果和文献列表
+- **成果**：GSK项目IAR/IAI于2026年3月底终版交付，项目于5月正式Close Out，客户Roadmap反馈已确认
 
-- **目标**：为某多发性骨髓瘤RWD项目提供中东地区数据源清单
-- **行动**：
-  - 检索并整理GCC五国（沙特、阿联酋、科威特、阿曼、卡塔尔）的疾病登记、医院及商业数据库
-  - **新增发现**：UAE地区DRWD数据库、卡塔尔地区数据库，补充进团队PPT及Excel汇总表
-  - 独立产出两份成果文件：`MM_Mid_East.pptx` 和 `MiddleEast_MM_DataSources_20260313.xlsx`
-- **成果**：为团队提供了可操作的数据源建议，提升了项目提案的完整性
+---
 
-### 报价支持与项目协作
+### Grifols 295372项目 — 肝硬化患者白蛋白使用RWE可行性评估
 
-- 协助团队准备**Schwab项目报价**，与团队成员确认并更新报价数据
-- 参与**GSK/慢性乙肝项目**，快速掌握项目术语（ALT/AST/HBV/HCC）及数据源评估流程
-- 定期参加印度项目、GSK项目会议，记录并整理会议纪要，推动信息同步
+- **项目背景**：Grifols（基立福，全球血浆制品公司）委托评估中国大陆使用RWD研究肝硬化患者白蛋白使用的可行性，项目周期2026.4.15–7.15
+- **核心贡献**：
+  - **IAP（整合分析计划）编写**：基于模板完成IAP第一稿，协调Medical团队完成关键变量列表修订与ICD-10/ATC编码整合
+  - **数据源调研与替代方案**：Inspur因内部重组无法使用后，积极寻找替代数据源（Kingpoint、联仁、华西医院、青海、北方大数据、江北大数据中心等），整理数据源对比slides（含Risk Management Plan）
+  - **文献调研**：完成15篇肝硬化+白蛋白相关文献检索与整理，重点梳理华西医院孙鑫教授团队RWE方法学积累
+  - **项目恢复支持**：项目4月28日On Hold后，于5月28日正式Resume，参与时间线修订与工作重启
+- **成果**：IAP第一稿按时完成，关键变量对齐完成，数据源评估体系建立
 
-> 在精鼎医药实习期间，我不仅将统计学知识应用于真实的跨国RWD项目，更通过主动调研与协作，成为团队中值得信赖的数据源支持者。
+---
+
+### 阿斯利康（AZ）相关项目支持
+
+**印度Savotinib NSCLC项目**：
+- 完成PubMed文献检索：`("India" OR "Indian") AND ("NSCLC") AND ("real-world" OR "registry")`
+- 整理Excel表格提取数据源名称、患者数、年份、关键发现，附DOI链接
+- 最终材料经RWD Strategy Lead审阅后提交
+
+**中东多发性骨髓瘤项目**：
+- 检索整理沙特、阿联酋、科威特、阿曼、卡塔尔的疾病登记、医院及商业数据库
+- **新增发现**：UAE地区DRWD数据库、卡塔尔地区数据库，补充进团队PPT及Excel
+- 独立产出：`MM_Mid_East.pptx` 和 `MiddleEast_MM_DataSources_20260313.xlsx`
+
+**GOLD 2026 & Personalized Management Workshop**：
+- 为阿斯利康及呼吸科专家设计COPD Workshop，独立完成GOLD 2026指南更新、RCT vs RWE、MITOS EROS+CP研究等文献检索与PPT内容撰写
+
+---
+
+### 强生（J&J）RWE Innovation Workshop
+
+- **项目背景**：强生中国邀请5家CRO分别进行RWE领域Innovation Workshop分享，每家约1小时，侧重中国本地RWE项目经验
+- **核心贡献**：
+  - 协助准备Workshop内容（white paper与联仁合作的machine learning validation案例）
+  - 协助准备GSK项目案例（database应用），撰写mini agenda
+  - 参与内部对齐会和slides过审
+- **成果**：Workshop于5月8日正式举办，客户反馈成功
+
+---
+
+### 其他项目支持
+
+| 项目 | 核心工作内容 |
+|------|-------------|
+| **Astellas** | 协助整理两个可行性分析合并方案（老年黄斑变性、地图样萎缩等眼科疾病），参与台湾NHIRD（~$162K USD）和韩国HIRA（~$55K USD）报价整理 |
+| **Michel慢性骨髓炎（313119）** | 向江北、联仁询价（描述性分析），内部feasibility费用确认 |
+| **OM项目** | 合同修订跟进（时间节点细化、赔付条款），Inspur签约状态跟踪 |
+| **中国RWD商用数据源调研** | 系统调研中国区域RWD商用数据源（类型、数据量、数据来源、publication），进行中 |
+
+---
+
+### 专业能力提升与SOP学习
+
+**RWD/RWE全流程认知**：
+- 系统掌握从IAP→IAI→IAR→Protocol的完整RWD项目流程
+- 理解RWD战略部门作为"质量把关者"、"跨部门粘合剂"、"合规审计追踪者"的三重角色
+
+**SOP体系学习**：
+- 深度学习Parexel RWD管理SOP（WI02–WI33），涵盖Validation Specification、Data Quality Checks（完整性/一致性/合理性）、CDM Mapping、Clinical Coding（MedDRA/WHODrug）、聚合数据管理等核心环节
+
+**生物统计方法学**：
+- 通过Workshop学习Meta分析（固定/随机效应、MAIC间接比较）、网状Meta分析（网络图、森林图、联赛表、SUCRA）等方法
+
+---
+
+### 会议与跨团队协作
+
+- **25+份会议纪要**：定期参加GSK、Grifols、AZ、J&J等项目周会，记录并整理中英文双语会议纪要，形成"参会人员→讨论要点→待办事项（负责人+截止时间）"的标准化模板
+- **跨部门协作**：与Medical、Epi、统计编程（SPL）、RWR交付、客户等多方协调沟通
+- **英文工作环境**：从英文面试到英文客户会议（Grifols Kick-Off Meeting等）、英文邮件往来，逐步适应全英文工作场景
+- **企业工具**：熟练使用SharePoint、Monday.com、Salesforce、Teams进行项目跟踪与文档管理
+
+> 在精鼎医药实习期间，我跨越GSK、Grifols、阿斯利康、强生、Astellas等多家全球药企，涉及中国、印度、中东、亚太多国的真实世界数据支持，从文献检索到IAP/IAR文档编写、从数据源评估到成本预算谈判、从中文协作到英文客户汇报，逐步成长为团队中值得信赖的RWD战略支持实习生。
 
 ## **项目与作品集**
 
@@ -188,7 +251,9 @@
 
 **项目成果**：完成了一个功能完整、文档齐全、易于扩展的专业级样本量计算工具。通过毕业设计，系统梳理了临床试验设计中的统计原理，并实践了从需求分析、架构设计到编码实现的全流程开发。项目代码结构清晰（模块化函数、参数模板、示例内容），便于后续研究者添加新方法。
 
-**项目链接**：[在线演示](https://cathy-chenyx.shinyapps.io/SampSize_R/) | [GitHub 仓库](https://github.com/Cathy-Chenyx/SampleSize_R.Shiny)
+![main_page](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260604084051723.png)
+
+**项目链接**：[在线演示](https://cathy-chenyx.shinyapps.io/SampleSize_R/) | [GitHub 仓库](https://github.com/Cathy-Chenyx/SampleSize_R.Shiny)
 
 **项目亮点**：
 
@@ -224,6 +289,28 @@
 **扫码体验：**
 
 <img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/1_1063825455_2504_77_3_1056228965_44e55647caac8f876e0ae91a27309844-20251030132858938.png" style="zoom:33%;" />
+
+### STEMI 患者院内消化道出血预测模型 – 统计建模大赛参赛作品
+
+![ROC_Curves_for_all_models ](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260603151148773.png)
+
+**项目描述**：基于广东省人民医院 2010‑2020 年 STEMI 患者真实世界数据（n=4,489，阳性率~9%），开发可解释的消化道出血风险预测模型，辅助临床早期识别高危患者、优化抗栓与胃黏膜保护策略。
+
+**关键技术**：R、Python、多重插补 (mice)、Knockoff + Lasso 双重变量选择（FDR 控制）、自适应线性回归、模式子模型、集成学习 (Stacking/Boosting)、SHAP 可解释性、决策曲线分析 (DCA)
+
+![tech_roadpath](/Users/cathy/Documents/GitHub/STEMI_Predictive_model/outcome/06_figures/tech_roadpath.png)
+
+**项目成果**：
+
+- 构建完整分析 Pipeline（数据清洗 → 80%以上高缺失变量剔除 → 多重插补 → 变量筛选 → 模型训练与验证）。
+- 系统比较 4 种变量集（Knockoff/Lasso/Union/Intersection）与 12 种模型（随机森林、XGBoost、LightGBM、CatBoost、逻辑回归、自适应线性回归等）。
+- **最优模型 (Knockoff + 自适应线性回归) 测试集 AUC 达到 0.7977**，显著优于 CRUSADE (0.659)、HAS‑BLED (0.612)、HEMORRHAGES (0.688) 等传统出血评分。
+- 创新处理真实世界缺失数据：引入自适应线性回归与模式子模型，无需预先插补即可利用缺失模式进行预测，避免插补误差。
+- 输出临床可解释的 11 个关键预测因子（入院 48h 内 PPI 使用、血肌酐、血红蛋白、直接胆红素、尿酸等），并通过 SHAP 分析和决策曲线证实模型在较宽阈值范围内具有正向净获益。
+
+**相关链接**：
+
+- [GitHub 项目仓库](https://github.com/Cathy-chenyx/STEMI_Predictive_model)
 
 ### 亚太地区消化道癌症负担 GBD 数据分析
 
