@@ -1,5 +1,7 @@
 # **陈奕昕 - 个人能力证明与材料索引**
 
+[English](README_EN.md)
+
 **南方医科大学 | 应用统计学 | 数据科学与商业分析的跨界践行者**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -36,11 +38,11 @@
 
 **官方成绩单 (2022-2025)**
 
-- 总平均绩点：3.5/5.0 
+- 总平均绩点：3.53/5.0 
 
-- 专业排名：15/39
+- 专业排名：12/39
 
-- 核心专业课程：循证医学（97）、生存分析（96.5）、R语言（95）、临床试验设计（95.7）、统计建模（94.9）等成绩优异
+- 核心专业课程：循证医学（97）、数据管理（98）、生存分析（96.5）、临床试验设计（95.7）、R语言（95）、统计建模（94.9）等成绩优异
   
   查看成绩单:  [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
 
@@ -311,6 +313,20 @@
 **相关链接**：
 
 - [GitHub 项目仓库](https://github.com/Cathy-chenyx/STEMI_Predictive_model)
+
+### ACS 患者应激指标预后价值研究 – 多队列数据分析与风险预测
+
+**项目描述**：基于广东省人民医院 2010–2015 年 >4,000 例 ACS 住院患者真实世界数据，系统评估 7 个入院应激指标（HsCRP、BUN、CystatinC、NT-proBNP、Uric acid、WBC、Lactate）对短期及长期临床结局（全因死亡、MACE）的独立预测价值，为临床风险分层提供循证依据。
+
+**关键技术**：R、生存分析（KM + Cox 回归）、多因素 Logistic 回归、ROC 分析、糖尿病三水平分层编码、缺失模式分析
+
+**项目成果**：
+- 完成 ACS 全体、STEMI、UA+NSTEMI 三队列的完整分析流程（数据清洗 → 基线比较 → 单因素 → 多因素 → 综合模型 → ROC 分析）
+- 乳酸对 STEMI 长期死亡的 Cox 回归 HR = 1.21（95% CI 1.11–1.31），高乳酸组 KM 曲线在 30 天/1 年/3 年均显著高于低乳酸组
+- HsCRP、BUN、CystatinC、NT-proBNP 在多因素模型中对 Death/MACE 呈现独立预测价值；多个应激指标 AUC > 0.6
+- 建立规范的 R 脚本流程与函数库（14 个脚本），保证分析可复现性
+
+**项目链接**：[GitHub 仓库](https://github.com/Cathy-Chenyx/ACS_Analysis_Project)
 
 ### 亚太地区消化道癌症负担 GBD 数据分析
 
