@@ -1,6 +1,6 @@
 # **陈奕昕 - 个人能力证明与材料索引**
 
-[English](README_EN.md)
+[English version](README_EN.md)
 
 **南方医科大学 | 应用统计学 | 数据科学与商业分析的跨界践行者**
 
