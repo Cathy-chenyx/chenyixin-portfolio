@@ -1,17 +1,6 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 3ee4bef11db4abe8e7f99813efcba22e_142dfb2f648b11f18383525400d9a7a1
-    ReservedCode1: wmOcknLUQVmKXGvvxNMfHpVfXQkHOIGm2XLfBqhrABo1PpbAf3ojUJItfAtSlxperL9DWTEdrPGaMBlf8Or75PwY9zA80oA1Ov6p8YfCf+1LdJ8+3lh7gSmP2mlsm+nX/3p9Vo4ILJTTGy2wnfqwiTVc5EM3N8ghXAGW0NrwcJ7HPN32NhORcuXZQ+o=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 3ee4bef11db4abe8e7f99813efcba22e_142dfb2f648b11f18383525400d9a7a1
-    ReservedCode2: wmOcknLUQVmKXGvvxNMfHpVfXQkHOIGm2XLfBqhrABo1PpbAf3ojUJItfAtSlxperL9DWTEdrPGaMBlf8Or75PwY9zA80oA1Ov6p8YfCf+1LdJ8+3lh7gSmP2mlsm+nX/3p9Vo4ILJTTGy2wnfqwiTVc5EM3N8ghXAGW0NrwcJ7HPN32NhORcuXZQ+o=
----
-
 # Yixin Chen — Portfolio
 
-[中文](README.md)
+[中文版本](README.md)
 
 **Southern Medical University | Applied Statistics (Biostatistics) | Data-Driven Strategist**
 
