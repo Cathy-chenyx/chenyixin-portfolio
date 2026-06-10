@@ -81,7 +81,7 @@ As an intern in the Asia-Pacific RWD Strategy team at a top-tier global CRO, I c
 **Additional Project Support**
 | Project | Contribution |
 |---|---|
-| Astellas | Consolidated two feasibility analysis proposals (AMD, GA); compiled Taiwan NHIRD (~$162K USD) and Korea HIRA (~$55K USD) quotations |
+| Astellas | Consolidated two feasibility analysis proposals (AMD, GA); compiled Taiwan NHIRD  and Korea HIRA quotations |
 | Michel Chronic Osteomyelitis (313119) | Vendor outreach to Jiangbei and Lianren for descriptive analysis quotations |
 | OM Project | Contract revision tracking (timeline refinement, indemnity clauses); Inspur signing status monitoring |
 | China Commercial RWD Data Source Survey | Systematic mapping of China RWD commercial data sources (type, volume, origin, publications) |
