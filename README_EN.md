@@ -90,7 +90,7 @@ As an intern in the Asia-Pacific RWD Strategy team at a top-tier global CRO, I c
 - Mastered the full RWD project lifecycle: IAP → IAI → IAR → Protocol
 - Studied Parexel RWD Management SOPs (WI02–WI33) covering validation specifications, data quality checks, CDM mapping, clinical coding (MedDRA/WHODrug), and aggregate data management
 - Learned meta-analysis and network meta-analysis methods through internal workshops
-- Produced 25+ bilingual meeting minutes; collaborated cross-functionally with Medical, Epi, SPL, RWR Delivery teams
+- Produced 35+ bilingual meeting minutes; collaborated cross-functionally with Medical, Epi, SPL, RWR Delivery teams
 - Gained proficiency in SharePoint, Monday.com, Salesforce, and Microsoft Teams
 
 ---
@@ -117,6 +117,7 @@ As an intern in the Asia-Pacific RWD Strategy team at a top-tier global CRO, I c
 **Description**: Contributed as a biostatistics student to the development of the SSEA clinical research calculation platform (Zhujiang Hospital research group), covering RCTs, observational studies, and diagnostic trials.
 
 **Contributions**:
+
 - Validated calculation accuracy (error rate < 0.1%)
 - Co-authored the [SSEA User Guide series](https://mp.weixin.qq.com/s/t2dFiUKlmI-tuyuoxMN4wA) on WeChat Official Account
 - Provided statistical consulting to ensure methodological appropriateness
@@ -250,4 +251,3 @@ As an intern in the Asia-Pacific RWD Strategy team at a top-tier global CRO, I c
 - **Email**: 3227042017@i.smu.edu.cn
 - **Phone**: +86 133-0291-1809
 - **GitHub Portfolio**: [github.com/Cathy-Chenyx/chenyixin-portfolio](https://github.com/Cathy-Chenyx/chenyixin-portfolio)
-*（内容由AI生成，仅供参考）*
