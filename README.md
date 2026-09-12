@@ -4,7 +4,7 @@
 
 南方医科大学应用统计学硕士生，本科为生物统计学背景。关注临床研究、真实世界数据 / 真实世界证据（RWD/RWE）、统计建模、医疗行业研究，以及 AI 如何改进研究与分析工作流。
 
-> This repository is the **evidence layer** of my portfolio: selected projects and experiences are highlighted here, while detailed certificates, transcripts, awards and supporting materials remain organized in the folders below.
+> This repository is a curated portfolio index connecting selected projects, experiences and supporting evidence. Detailed credential files are maintained separately from the main storefront.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-0B7DBC?style=flat-square&logo=r&logoColor=white)
@@ -23,8 +23,8 @@
 
 独立开发的中英双语临床研究样本量计算工具，目前实现 **32 种样本量 / 精度分析方法**，覆盖均数、率、生存、相关、回归、分类变量、精度分析与交叉设计等场景，并支持动态参数面板、脱落率调整、交互式功效 / 精度曲线及可扩展方法注册。
 
-- [GitHub Repository](https://github.com/Cathy-chenyx/SampleSize_R.Shiny)
 - [Live Demo](https://cathy-chenyx.shinyapps.io/SampleSize_R/)
+- Source code is maintained privately; the public deliverable is the working application.
 
 ### 🩺 STEMI In-hospital Bleeding Prediction
 
@@ -41,7 +41,6 @@
 基于 GBD 数据分析主要消化系统癌症的疾病负担与长期趋势，包含数据预处理、年龄标准化指标、EAPC、SDI 比较、年龄 / 地区亚组分析、全球地理可视化及探索性时间序列预测。
 
 - [GitHub Repository](https://github.com/Cathy-chenyx/gastrointestinal_cancer_GBD)
-- [Supporting Report](03项目证明/统计建模_GBD疾病负担分析.pdf)
 
 ---
 
@@ -81,37 +80,7 @@
 - **Southern Medical University First-Class Scholarship**
 - **National College Career Planning Competition — Provincial Bronze Award**
 
-Full supporting materials are kept in the evidence folders below rather than expanded on this landing page.
-
----
-
-## 📁 Evidence Hub
-
-This repository keeps supporting materials organized by category so the README can stay concise.
-
-### 🎓 01｜Professional & Academic Evidence
-
-Transcripts, certifications and language / technical credentials.
-
-- [Open folder](01专业能力)
-
-### 🏆 02｜Awards & Honors
-
-Academic competitions, university honors and athletics achievements.
-
-- [Open folder](02荣誉奖项)
-
-### 📊 03｜Project Evidence
-
-Selected reports, competition submissions and project deliverables that support the project summaries above.
-
-- [Open folder](03项目证明)
-
-### 📎 04｜Supplementary Materials
-
-Additional campus, sports and supporting evidence that is useful for verification but not central to the main portfolio story.
-
-- [Open folder](04补充材料)
+Supporting documents are curated separately; this landing page prioritizes the strongest signals rather than exposing every original certificate or administrative record.
 
 ---
 
@@ -133,8 +102,8 @@ These experiences are part of how I think about teamwork, discipline, curiosity 
 
 ### Repository role
 
-**Portfolio / Notion** → tells the story  
-**Project repositories** → show the code and methods  
-**This repository** → provides the supporting evidence
+**Portfolio / Notion** → tells the broader story  
+**Project repositories** → show code, methods and reproducible work  
+**This repository** → serves as the curated public index
 
 The goal is not to display everything I have done, but to make the most relevant work easy to understand and easy to verify.
