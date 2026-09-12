@@ -1,587 +1,140 @@
-# **陈奕昕 - 个人能力证明与材料索引**
+# Cathy Chen · 陈奕昕
 
-[English version](README_EN.md)
+**Applied Statistics · Biostatistics · Healthcare · Data & AI**
 
-**南方医科大学 | 应用统计学 | 数据科学与商业分析的跨界践行者**
+南方医科大学应用统计学硕士生，本科为生物统计学背景。关注临床研究、真实世界数据 / 真实世界证据（RWD/RWE）、统计建模、医疗行业研究，以及 AI 如何改进研究与分析工作流。
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-0B7DBC?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-FF0000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+> This repository is the **evidence layer** of my portfolio: selected projects and experiences are highlighted here, while detailed certificates, transcripts, awards and supporting materials remain organized in the folders below.
 
-## 📑 目录
-[🎓 教育背景](#学术成绩证明)
-
-[🏆 证书荣誉](#核心能力证书摘要)
-
-[📊 实习与项目经历](#实习经历)
-
-[🌏 国际视野](#国际经历与综合视野)
-
-[📞 联系方式](#感谢您的时间与审阅)
-
-​	**注**：部分证明文件因体积较大，GitHub可能无法直接预览。若遇到此情况，请点击链接后，在打开的GitHub页面寻找 **"Download"** 按钮或使用右键菜单的 **“链接另存为”** 进行下载后查看。
-
-## 核心能力证书摘要
-
-| 证书名称                     | 颁发机构                         | 获得时间 | 级别/成绩    | 证明材料方式                                                 |
-| :--------------------------- | :------------------------------- | :------- | :----------- | :----------------------------------------------------------- |
-| **统计专业技术资格（初级）** | 人力资源和社会保障部、国家统计局 | 2025.10  | 通过         | [初级统计师证书](https://github.com/Cathy-chenyx/chenyixin-portfolio/blob/main/01%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B/1.6%E5%88%9D%E7%BA%A7%E7%BB%9F%E8%AE%A1%E5%B8%88%E8%AF%81%E4%B9%A6.pdf) |
-| SAS Base 程序员认证          | SAS Institute                    | 2025.05  | 通过         | [SAS Base 程序员认证](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.2_SAS_base证书.pdf) |
-| 大学英语六级 (CET-6)         | 教育部                           | 2025.06  | 546分        | [CET6 - 546.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.5_CET6_546.pdf) |
-| 全国大学生数学建模竞赛       | 广东省教育厅                     | 2024.12  | 广东省三等奖 | [数学建模证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) |
-| 全国计算机二级               | 教育部                           | 2023.03  | 通过         | [计算机二级证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.3计算机二级证书.pdf) |
-
-## 学术成绩证明 
-
-**官方成绩单 (2022-2025)**
-
-- 总平均绩点：3.53/5.0 
-
-- 专业排名：12/39
-
-- 核心专业课程：循证医学（97）、数据管理（98）、生存分析（96.5）、临床试验设计（95.7）、R语言（95）、统计建模（94.9）等成绩优异
-  
-  查看成绩单:  [南方医科大学成绩单.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/01专业能力/1.1南方医科大学成绩单.pdf) 
-
-## 竞赛获奖与综合荣誉 
-
-### 学术竞赛荣誉
-
-![SAS大赛](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/SAS%E5%A4%A7%E8%B5%9B.jpg)
-
-- **2024年 SAS 中国高校数据分析大赛** - **全国二等奖**
-
-  **证明材料:**  [SAS大赛获奖证书.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/SAS大赛获奖证书.pdf) 
-  [官方新闻链接](https://mp.weixin.qq.com/s/20FoBxp0UPmD3oKTmZS1yw)
-
-- **2024年 全国大学生数学建模竞赛** - **广东省三等奖**
-  
-  **证明材料:**  [数学建模国赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/中国大学生数学建模广东省三等奖.pdf) 
-  
-- 2024年 美国大学生数学建模竞赛 - S奖
-  
-  **证明材料:** [数学建模美赛.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.1学术竞赛/美国大学生数学建模S奖.pdf) 
-
-### 职业技能与综合发展荣誉
-
-![职规赛](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/IMG_1865.JPG)
-
-**第三届全国大学生职业规划大赛校赛特等奖（第一名）-省赛铜奖** (2025.11) - 于全校超过2000名参赛者中脱颖而出，斩获就业赛道最高荣誉
-
-[职业规划大赛-省赛铜奖奖状](https://github.com/Cathy-chenyx/chenyixin-portfolio/blob/main/02%E8%8D%A3%E8%AA%89%E5%A5%96%E9%A1%B9/2.2%E4%B8%AA%E4%BA%BA%E8%8D%A3%E8%AA%89/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E5%A4%A7%E8%B5%9B%E8%AF%81%E4%B9%A6.pdf)
-
-> 作为国家级职业规划大赛的校级选拔，该赛事旨在全面提升大学生就业竞争力。在决赛中，通过**主题陈述**与**综合面试**，系统呈现了个人能力矩阵与行业岗位的深度契合，展现了清晰的职业发展路径和扎实的求职实战能力。评审团由高校职业规划专家及知名企业人力资源负责人共同组成，奖项含金量高。
->
-> **官方新闻链接:** [2000人竞逐，精英对决刮起职业规划旋风](https://news.smu.edu.cn/info/1014/125316.htm)
-
-### 校内荣誉 
-
-- **校一等奖学金** (2023-2024) 
-
-- **校三等奖学金**（2024-2025）
-
-- **校优秀学生** (2023-2024) （2024-2025）
-  
-- **公共卫生学院“十佳之星” - 体育之星** (2025) - 授予在体育竞技领域取得突出成就、展现卓越体育精神与团队领导力的学生代表
-  **官方新闻链接:** [2025年度第十五届公共卫生学院“十佳之星”风采展示](https://news.smu.edu.cn/info/1014/127546.htm)
-  ![十佳之星](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260120125617773.png)
-  
-  **证明材料:**   [校内荣誉.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.2校内荣誉/校内荣誉.pdf) 
-
-### 体育竞技成就
-
-​	累计荣获**国家级赛事银牌1项**、**铜牌1项**，**省级赛事金牌1项**、**银牌2项**，共计6项省级及以上高含金量奖项。
-
-​	作为团队核心主力，在**中国大学生健美操锦标赛**及**广东省大学生健美操锦标赛**中，于**三人操、混合双人操、五人操**等多个集体项目中取得顶尖名次，展现了卓越的协同作战能力。
-
-官方新闻链接🔗
-
-- [五金二银一铜，连续三年团体总分第一！我校健美操队在省锦标赛掀起“南医旋风”](https://www.smu.edu.cn/info/1139/35559.htm)
-- [校健美操队在中国大学生健美操锦标赛上获4枚铜牌](https://www.smu.edu.cn/info/1139/60389.htm)
-- [健美操队闪耀省大运会赛场 技术突破与艺术表现双“银”](https://news.smu.edu.cn/info/1014/115606.htm)
-
-<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/6D567E6C6898564E3EEDD90083B_E97C91E0_21B7F.jpeg" alt="省赛徒手操" style="zoom:33%;" />
-
-* **中国大学生健美操锦标赛 - 全国亚军** (2023)
-
-> **证明材料:**  [国赛亚军.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2023年中国大学生健美操锦标赛_亚军.pdf) 
-
-- **广东省大学生健美操锦标赛 - 团体总分第一名 & 徒手操冠军** (2024 & 2023)
-
-> 作为团队绝对主力，两年内率队蝉联省级锦标赛**团体最高荣誉**，并个人主导项目斩获**省级冠军**，证明了持续的统治级表现与领导力。
->
-> **证明材料:** [徒手操冠军.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2023广东省大学生健美操_徒手操_冠军.pdf)  [团体总分.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2024年广东省大学生健美操锦标赛_团体总分_第一名.pdf.pdf) 
-
-- **中国大学生健美操锦标赛 - 有氧踏板 第三名** (2024)
-
- > 在同一顶级赛事中，于不同项目上再次夺得国家级奖牌，体现了全面的技术适应性与稳定的高水平发挥。
- >
-  > **证明材料:**  [有氧踏板第三名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/第18届中国大学生健美操锦标赛_有氧踏板_第三名.pdf) 
-
-- **多项国家级、省级赛事集体项目四强** (三人操、混合双人操、五人操)
-
- > 在多个强调高度协同的集体项目中，作为核心成员均取得全国及省级前四强的优异成绩，是团队协作与信任精神的最佳证明。
- >
-  > **证明材料：** [2023年省赛三人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2023年广东省大学生健美操锦标赛_三人操_第四名.pdf)  
- > [2024国赛五人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/第18届中国大学生健美操锦标赛_五人操_第四名.pdf)  
-  > [2024国赛混合双人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/第18届中国大学生健美操锦标赛_混合双人操_第四名.pdf)  
- > [2024年省赛有氧踏板_第五名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/2024年省赛有氧踏板_第五名.pdf.pdf)  
-  > [广东省大运会三人操_第四名.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/02荣誉奖项/2.3体育竞技/广东省第十二届大学生运动会健美操_三人操_第四名.jpg.pdf) 
-
-### 其他校园活动与奖项 
-
-<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/480519c2364b7b76c8e1e3b5958829d6.jpg" alt="篮球比赛" style="zoom:33%;" />
-
-- 南方医科大学大满贯篮球赛冠军（2024）
-
-- 南方医科大学凤翔杯篮球赛亚军 (2023)
-
-- 南方医科大学凤翔杯乒乓球比赛第四名（2023）
-
-- 南方医科大学校运会跳远第五名（2023）
-
-- 南方医科大学跳绳比赛第五名（2024）
-
-**证明材料:详见[【04补充材料】](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/04补充材料)**
-
-## 实习经历
-
-### 精鼎医药研究开发（上海）有限公司（Parexel International）
-
-RWD Strategy Intern 
-
-真实世界数据战略实习生	*2026年3月 – 至今 | 广州*
-
-精鼎医药是全球领先的合同研究组织（CRO），总部位于美国，业务覆盖全球。其亚太区 RWD（真实世界数据）战略团队专注于为药企客户提供基于真实世界数据的可行性评估、数据源管理及真实世界证据（RWE）研究支持，覆盖中国大陆、香港、台湾、日本、韩国、新加坡、印度、中东等新兴市场。
-
-作为全球顶尖CRO公司（合同研究组织）亚太区RWD战略团队实习生，深度参与多项跨国真实世界研究（RWE）项目的全流程支持工作，服务客户覆盖**多家全球 Top 10 跨国药企**（涵盖慢性乙型肝炎、血浆制品、肿瘤、疫苗、眼科等多个治疗领域），积累了从IAP/IAI/IAR文档编写、数据源可行性评估、成本预算谈判到英文客户会议汇报的完整项目经验。
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-0B7DBC?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1f6feb?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 某跨国大型制药企业慢性乙型肝炎（CHB）项目 — IAR/IAI终版交付与跨地区报价管理
+## ⭐ Featured Projects
 
-- **项目背景**：某跨国大型制药企业委托Parexel进行亚太区慢乙肝真实世界数据源的可行性评估，涉及多个国家10+个数据源，目标是筛选可用于后续RWE研究的最优数据源。
+### 🧪 SampleSize_R · Clinical Trial Sample Size Calculator
 
-  **参与角色**：RWD战略支持
+**Clinical Trials · R Shiny · Statistical Computing**
 
-  **主要工作**：
+独立开发的中英双语临床研究样本量计算工具，目前实现 **32 种样本量 / 精度分析方法**，覆盖均数、率、生存、相关、回归、分类变量、精度分析与交叉设计等场景，并支持动态参数面板、脱落率调整、交互式功效 / 精度曲线及可扩展方法注册。
 
-  1. **IAR/IAI文档修订与终版交付**：根据客户comments修订IAR（Informatic Assessment Report）中main reasons部分，统一格式；更新IAI中的报价数据和患者人数信息；完成该项目所有版本IAR/IAI的最终归档。
-  2. **患者人数与成本汇总表**：按"国家–数据源–患者人数–Total Cost–Cost per Patient"的横版结构整理，统一用成人患者口径；将某数据源供应商报价按汇率（RMB→GBP）填入；整理第一轮ranking结果。
-  3. **数据源报价跟踪与更新**：某数据源供应商多次报价更新，分析变化原因（数据治理费+15万/indication、新增统计分析+统计报告15万等）；另一数据源供应商最终报价的评估。
-  4. **客户沟通邮件（英文）**：向客户方对接人发送数据源费用调研结果和文献列表。
-  5. **Roadmap与Proposal支持**：参与该项目Phase 2 proposal中RWD战略部分撰写。
+- [GitHub Repository](https://github.com/Cathy-chenyx/SampleSize_R.Shiny)
+- [Live Demo](https://cathy-chenyx.shinyapps.io/SampleSize_R/)
 
-  **关键成果**：该项目IAR/IAI于2026年3月底终版交付，项目于5月正式Close Out。客户Roadmap反馈已确认。
+### 🩺 STEMI In-hospital Bleeding Prediction
 
----
+**Clinical Prediction · Real-world Data · R + Python · Machine Learning**
 
-### 某全球血浆制品企业肝硬化项目 — 肝硬化患者白蛋白使用RWE可行性评估
+基于真实世界 STEMI 住院数据开发院内消化道出血风险预测流程，结合缺失数据处理、Knockoff / Lasso 变量筛选、机器学习与回归模型比较、SHAP 解释、校准、DeLong 检验和决策曲线分析。当前仓库记录的最终方案测试集 AUC 为 **0.7977**。
 
-- **项目背景**：某全球血浆制品企业委托Parexel评估在中国大陆使用真实世界数据研究肝硬化患者白蛋白使用的可行性。项目周期2026.4.15–7.15（3个月），分为Objective 1（高层面可行性）+ Objective 2（深度可行性）。
+- [GitHub Repository](https://github.com/Cathy-chenyx/STEMI_Predictive_model)
 
-  **参与角色**：RWD战略支持 + IAP编写协助
+### 🌏 Gastrointestinal Cancer GBD Analysis
 
-  **主要工作**：
+**Epidemiology · Global Burden of Disease · R**
 
-  1. **IAP（整合分析计划）编写**：基于某既有项目IAP模板，将该项目变量填入；协调Medical团队（同事）完成关键变量列表的修订与ICD-10/ATC编码整合；参与多轮内部review流程（Epi + Medical）。
-  2. **文献调研**：完成15篇肝硬化+白蛋白相关文献的检索与整理；完成某三甲医院专家团队的文献检索与RWE方法学积累调研。
-  3. **数据源调研与评估**：某数据源供应商因内部重组无法使用后，积极寻找替代数据源：某三甲医院专家团队、多个商业数据源供应商、多个地区大数据中心等；整理数据源对比slides（含Risk Management Plan）。
-  4. **关键变量对齐**：与Medical团队同事进行变量列表对齐，将客户提供的ICD-10编码与变量列表整合，增加ATC code列，准备中文版IAI给数据源。
-  5. **成本分析与谈判**：参与Pass-through Cost讨论，某数据源供应商报价从~30K USD谈判至~19K USD。
-  6. **项目恢复支持**：项目On Hold后（4月28日），于5月28日正式恢复，参与时间线修订与工作重新启动。
-  7. **IAP文档优化**（6月）：根据客户方负责人的comments更新IAP：更新start/stop date定义、添加liver transplant内容、删除冗余bullet point；与内部同事讨论CAPA plan及某参考项目文档；审查IAP comments，区分clarification问题与需写入IAP的内容；向Medical团队同事咨询编码体系问题（ICD-10-CM、RxNorm、NDC在中国数据源中的适用性）。
-  8. **定期会议参与**（6月5日）：参加该肝硬化项目RWD Feasibility assessment定期会议，讨论研究设计考虑、变量定义、数据分层策略等。
+基于 GBD 数据分析主要消化系统癌症的疾病负担与长期趋势，包含数据预处理、年龄标准化指标、EAPC、SDI 比较、年龄 / 地区亚组分析、全球地理可视化及探索性时间序列预测。
 
-  **关键成果**：
-
-  - IAP第一稿按时完成，关键变量对齐完成，数据源评估体系建立
-  - 项目恢复后顺利重启，定期会议机制建立
-  - 研究设计考虑逐步明确：研究人群定义、LTA定义、数据分层策略等
-  - 新增多个关键变量（腹水严重程度分级、实验室变量、伴随治疗等）
-  - 确认3个数据源供应商，IAI发放时间定为7月中旬
-  - IAP初稿将于6月12日完成，最终审查6月15-19日
-  - 7月下旬完成 IAI 中文版并发送至数据源，输出 IAR Draft；与某三甲医院、某数据源供应商等数据方开展多轮沟通，参加 Regular Sponsor Meeting
+- [GitHub Repository](https://github.com/Cathy-chenyx/gastrointestinal_cancer_GBD)
+- [Supporting Report](03项目证明/统计建模_GBD疾病负担分析.pdf)
 
 ---
 
-### 某跨国制药企业相关项目支持
+## 💼 Experience
 
-**某印度非小细胞肺癌（NSCLC）项目**：
-- 完成PubMed文献检索：`("India" OR "Indian") AND ("NSCLC") AND ("real-world" OR "registry")`
-- 整理Excel表格提取数据源名称、患者数、年份、关键发现，附DOI链接
-- 最终材料经RWD Strategy Lead审阅后提交
+### Parexel · RWD Strategy Intern
 
-**中东多发性骨髓瘤项目**：
-- 检索整理沙特、阿联酋、科威特、阿曼、卡塔尔的疾病登记、医院及商业数据库
-- **新增发现**：UAE地区某RWD数据库、卡塔尔地区数据库，补充进团队PPT及Excel
-- 独立产出：`MM_Mid_East.pptx` 和 `MiddleEast_MM_DataSources_20260313.xlsx`
+**RWD/RWE · Data Source Strategy · APAC Healthcare Research**
 
-**GOLD 2026 & Personalized Management Workshop**：
-- 为某跨国制药企业及呼吸科专家设计COPD Workshop，独立完成GOLD 2026指南更新、RCT vs RWE、MITOS EROS+CP研究等文献检索与PPT内容撰写
+参与亚太地区真实世界数据可行性研究与数据源策略支持，工作涉及文献检索、数据源调研与比较、研究变量与可行性信息整理、跨地区沟通、项目材料支持以及英文工作环境下的跨团队协作。
 
----
+> Public portfolio descriptions are intentionally kept at a high level to avoid disclosing confidential client or project information.
 
-### 某跨国医疗健康企业 RWE Innovation Workshop
+### Frost & Sullivan · Healthcare Consulting
 
-- **项目背景**：某跨国医疗健康企业中国邀请5家CRO分别进行RWE领域Innovation Workshop分享，每家约1小时，侧重中国本地RWE项目经验
-- **核心贡献**：
-  - 协助准备Workshop内容（white paper与某数据源供应商合作的machine learning validation案例）
-  - 协助准备某慢性乙型肝炎项目案例（database应用），撰写mini agenda
-  - 参与内部对齐会和slides过审
-- **成果**：Workshop于5月8日正式举办，客户反馈成功
+**Healthcare Research · Market Analysis · Commercial Modeling**
 
-### 某跨国疫苗企业百日咳疫苗项目
-
-**项目背景**：某跨国疫苗企业委托Parexel评估亚洲地区百日咳疫苗真实世界数据的可行性，覆盖越南、菲律宾、老挝、印度四个国家。
-
-**主要工作**：
-
-1. **多国数据库调研**（6/1）：系统梳理四国数据库数量、数据可用性及核心发现，输出主汇总Excel（多sheet结构）
-2. **越南重点数据源深入分析**：梳理VNCH医院系统、NNDSS监测系统、免疫登记系统等关键数据库，整理相关研究联系人与文献支持
-3. **交付物优化**（6/2）：根据客户方反馈新增"References/URL"和"Pertussis Vaccine Type (wP/aP)"字段，对所有数据进行英文标准化处理
-4. **汇报材料制作**（6/2）：制作3页英文汇报PPT，总结亚洲整体数据格局，深入展示越南重点数据资产
-5. **Proposal Team对齐**（6/8）：参加该客户Proposal Team对齐会议（8:30 PM旁听），跟进某数据源供应商查询状态
-6. **Slides Double-check**（6/12）：逐条核查Pertussis vaccine type信息，发现仅某数据库可明确为aP数据；更新slides结论
-
-**关键成果**：调研初版已交付，获得客户方正面反馈；Proposal持续推进。
+围绕医疗健康行业研究、市场结构、竞争格局、market sizing / sales forecast 与咨询表达持续积累项目经验，并逐步建立 Healthcare Consulting Research SOP。
 
 ---
 
-### 其他项目支持
+## 🔬 What I Work On
 
-| 项目 | 核心工作内容 |
-|------|-------------|
-| **某跨国制药企业（眼科项目）** | 协助整理两个可行性分析合并方案（老年黄斑变性、地图样萎缩等眼科疾病），参与台湾地区某健保数据库（~$162K USD）和韩国某医保数据库（~$55K USD）报价整理 |
-| **某慢性骨髓炎项目** | 向多个数据源供应商询价（描述性分析），内部feasibility费用确认 |
-| **某合同修订项目** | 合同修订跟进（时间节点细化、赔付条款），某数据源供应商签约状态跟踪 |
-| **中国RWD商用数据源调研** | 系统调研中国区域RWD商用数据源（类型、数据量、数据来源、publication），进行中 |
-
----
-
-### 其他新增项目
-
-**某流感住院负担研究日本数据库评估**：
-- 为某跨国疫苗企业流感住院负担研究评估日本某医疗数据库供应商的数据库可行性
-- 整理该数据库 Claims 数据覆盖医院数、患者量、Disease Staging/ICD-10 编码等维度信息
-- 参与跨地区供应商沟通
-
-**某日本数据库供应商合同纠纷管理**：
-- 跟踪该供应商与中国团队合同纠纷进展，参与内部沟通协调
-- 更新合同条款变更方案
-
-**APAC Database Library 建设**：
-- 参与 APAC 地区数据库目录库（Database Library）的整理与录入
-- 系统整理亚太各国真实世界数据源信息（覆盖范围、数据量、变量可用性等）
-
-**某省级医疗大数据平台评估**：
-- 参与某省级医疗大数据平台的 RWD 可行性评估
-- 调研平台数据覆盖范围、数据维度及潜在研究方向
-
-**某代谢性脂肪性肝炎（MASH）/ 某流感项目**：
-- 协助某代谢性脂肪性肝炎（MASH）项目的文献检索与数据源评估
-- 协助某流感项目的初步调研工作
-
-**MASLD/MASH 亚太可行性评估与数据源外联**：
-- 系统调研韩国及新加坡 MASLD/MASH 数据源（国家队列研究、疾病登记库、大型医学中心等），完成 Korea_Singapore_Feasibility_Assessment
-- 维护 MASLD/MASH Data Source Outreach Tracker，逐一致信韩新研究中心，推进各研究中心合作申请与转介对接
-
-**某多发性骨髓瘤（MM）ECA 可行性评估**：
-- 完成日本/韩国/澳大利亚 MM 患者资源与 RWD 环境评估，盘点 20+ 数据源（国家级癌症登记库、医保数据库、疾病登记库等）
-- 评估 150 BCMA-exposed / 100 BCMA-naïve 患者招募可行性，输出 Country Feasibility Report / RWD Source Inventory / Sample Size Feasibility 三份交付物
-
-**中国数据源 Newsletter**：
-- 独立撰写 China Data Source Newsletter Draft V1（含某生物科技公司调研），完成 China Data Source Capability Assessment 调研表
-
-**某 MASH 项目 Bid Defense Slides**：
-- 加入某 MASH 项目 BDM slides 支持团队，更新 bid defense slides
-
-**某日本数据库供应商合同续约**：
-- 参加某日本数据库供应商合同续约讨论会议，梳理新 SOW、Acceptance 测试流程与付款方案，输出会议纪要及条款摘要
+| Area | Focus |
+| --- | --- |
+| **Biostatistics** | Clinical trials, survival analysis, prediction modeling, evidence synthesis |
+| **Healthcare** | RWD/RWE, epidemiology, healthcare research, market & competitive research |
+| **Data & AI** | R, Python, SAS, machine learning, LLM-assisted research workflows |
 
 ---
 
-### 专业能力提升与SOP学习
+## 🏆 Selected Achievements
 
-**RWD/RWE全流程认知**：
-- 系统掌握从IAP→IAI→IAR→Protocol的完整RWD项目流程
-- 理解RWD战略部门作为"质量把关者"、"跨部门粘合剂"、"合规审计追踪者"的三重角色
+- **SAS China University Data Analytics Competition — National 2nd Prize**
+- **National College Student Mathematical Modeling Competition — Guangdong 3rd Prize**
+- **National Collegiate Aerobics Championship — national-level medals**
+- **Southern Medical University First-Class Scholarship**
+- **National College Career Planning Competition — Provincial Bronze Award**
 
-**SOP体系学习**：
-- 深度学习Parexel RWD管理SOP（WI02–WI33），涵盖Validation Specification、Data Quality Checks（完整性/一致性/合理性）、CDM Mapping、Clinical Coding（MedDRA/WHODrug）、聚合数据管理等核心环节
-
-**生物统计方法学**：
-- 通过Workshop学习Meta分析（固定/随机效应、MAIC间接比较）、网状Meta分析（网络图、森林图、联赛表、SUCRA）等方法
+Full supporting materials are kept in the evidence folders below rather than expanded on this landing page.
 
 ---
 
-### 会议与跨团队协作
+## 📁 Evidence Hub
 
-- **35+份会议纪要**：定期参加多个跨国药企项目周会，记录并整理中英文双语会议纪要，形成"参会人员→讨论要点→待办事项（负责人+截止时间）"的标准化模板
-- **跨部门协作**：与Medical、Epi、统计编程（SPL）、RWR交付、客户等多方协调沟通
-- **英文工作环境**：从英文面试到英文客户会议（某客户Kick-Off Meeting等）、英文邮件往来，逐步适应全英文工作场景
-- **企业工具**：熟练使用SharePoint、Monday.com、Salesforce、Teams进行项目跟踪与文档管理
+This repository keeps supporting materials organized by category so the README can stay concise.
 
-> 在精鼎医药实习期间，我跨越多家全球 Top 10 跨国药企，涉及中国、印度、中东、亚太、日本、韩国、新加坡等多国的真实世界数据支持，从文献检索到IAP/IAR文档编写、从数据源评估到成本预算谈判、从多发性骨髓瘤 ECA 可行性评估到 MASLD/MASH 国际数据源外联，从中文协作到英文客户汇报，逐步成长为团队中值得信赖的RWD战略支持实习生。
+### 🎓 01｜Professional & Academic Evidence
 
-## **项目与作品集**
+Transcripts, certifications and language / technical credentials.
 
-### 临床试验样本量计算器（SampleSize_R）– 毕业设计
+- [Open folder](01专业能力)
 
-**项目描述**：作为应用统计学专业本科的毕业设计，独立开发了一个基于 R Shiny 的临床试验样本量计算工具，系统实现了 **20 种主流临床研究设计**的样本量计算方法，涵盖均数比较、率比较、等效性检验、生存分析、相关系数、回归分析及分类变量分析等。工具提供了三维筛选（数据类型、检验类型、设计类型）、动态参数面板、脱落率调整、功效曲线可视化等功能，并配备了详细的用户手册和扩展指南。
+### 🏆 02｜Awards & Honors
 
-**关键技术**：R-Shiny、`PowerTOST`、`gsDesign`、`npsurvSS`、动态 UI 生成、统计建模、参数转换。
+Academic competitions, university honors and athletics achievements.
 
-**项目成果**：完成了一个功能完整、文档齐全、易于扩展的专业级样本量计算工具。通过毕业设计，系统梳理了临床试验设计中的统计原理，并实践了从需求分析、架构设计到编码实现的全流程开发。项目代码结构清晰（模块化函数、参数模板、示例内容），便于后续研究者添加新方法。
+- [Open folder](02荣誉奖项)
 
-![main_page](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260604084051723.png)
+### 📊 03｜Project Evidence
 
-**项目链接**：[在线演示](https://cathy-chenyx.shinyapps.io/SampleSize_R/) | [GitHub 仓库](https://github.com/Cathy-Chenyx/SampleSize_R.Shiny)
+Selected reports, competition submissions and project deliverables that support the project summaries above.
 
-**项目亮点**：
+- [Open folder](03项目证明)
 
-- **方法全面**：除基础统计分析方法外，包含生存分析（Logrank、RMST、里程碑生存率）、相关系数检验、多元线性回归偏 F 检验、有序分类变量比例优势模型等复杂设计。
-- **严谨可扩展**：基于 `calculators_db.xlsx` 注册表管理计算方法，新增方法只需按模板添加，无需修改核心代码。
-- **学术产出**：毕业设计文档包含详细的统计理论笔记、用户手册和开题报告，可作为后续研究的参考。
+### 📎 04｜Supplementary Materials
 
-**相关产出**：[用户手册](https://github.com/Cathy-Chenyx/SampleSize_R.Shiny/blob/main/docs/用户手册.md) | [开发笔记](https://github.com/Cathy-Chenyx/SampleSize_R.Shiny/tree/main/docs/NOTE)
+Additional campus, sports and supporting evidence that is useful for verification but not central to the main portfolio story.
 
-------
+- [Open folder](04补充材料)
 
-### 样本量计算智能助手（SSEA）– 参与开发
+---
 
-**项目描述：** 作为具有统计背景的学生，参与了一个珠江医院课题组临床研究计算平台（SSEA）的研发。主要负责统计方法的参数设计、验证以及部分用户文档的撰写。平台覆盖 RCT、观察性研究、诊断试验等研究场景，旨在降低临床研究者使用样本量计算的门槛。
+## 🌱 Beyond Statistics
 
-**贡献内容**：
+Competitive aerobics · Basketball · Running · Hiking · Camping · Climbing · Photography · Videography · Travel
 
-- 协助验证样本量计算结果的准确性（误差率 < 0.1%）
-- 参与撰写 [SSEA 使用指南系列推文](https://mp.weixin.qq.com/s/t2dFiUKlmI-tuyuoxMN4wA)，帮助用户理解参数设置
-- 提供统计咨询，确保方法选择的合理性
+These experiences are part of how I think about teamwork, discipline, curiosity and exploration beyond technical work.
 
-![SSEA](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20251030221450212.png)
+---
 
-**项目链接:** [SSEA 在线平台](https://smuonco.shinyapps.io/SSEA/)
+## 📫 Contact
 
-**使用教程系列推文：**
+- **GitHub:** [Cathy-chenyx](https://github.com/Cathy-chenyx)
+- **Email:** 3227042017@i.smu.edu.cn
+- **LinkedIn:** [陈奕昕 / Yixin Chen](https://www.linkedin.com/in/%E5%A5%95%E6%98%95-%E9%99%88-1a809b36a)
 
-- [SSEA 使用指南（一）：研究场景选择与参数设置](https://mp.weixin.qq.com/s/t2dFiUKlmI-tuyuoxMN4wA)
-- [SSEA 使用指南（二）：诊断试验样本量计算详解](https://mp.weixin.qq.com/s/CwgVe3YOLTO4wzeEAUZWZA)
-- [SSEA 使用指南（三）：观察性研究样本量计算实战](https://mp.weixin.qq.com/s/DM30R7HMBcpnrCx6Ny1T8Q)
-- [SSEA 使用指南（四）：RCT研究中的样本量估算](https://mp.weixin.qq.com/s/xMvXZt7on93Tatr4KivF4A)
+---
 
-**扫码体验：**
+### Repository role
 
-<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/1_1063825455_2504_77_3_1056228965_44e55647caac8f876e0ae91a27309844-20251030132858938.png" style="zoom:33%;" />
+**Portfolio / Notion** → tells the story  
+**Project repositories** → show the code and methods  
+**This repository** → provides the supporting evidence
 
-### STEMI 患者院内消化道出血预测模型 – 统计建模大赛参赛作品
-
-![ROC_Curves_for_all_models ](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260603151148773.png)
-
-**项目描述**：基于广东省人民医院 2010‑2020 年 STEMI 患者真实世界数据（n=4,489，阳性率~9%），开发可解释的消化道出血风险预测模型，辅助临床早期识别高危患者、优化抗栓与胃黏膜保护策略。
-
-**关键技术**：R、Python、多重插补 (mice)、Knockoff + Lasso 双重变量选择（FDR 控制）、自适应线性回归、模式子模型、集成学习 (Stacking/Boosting)、SHAP 可解释性、决策曲线分析 (DCA)
-
-![tech_roadpath](/Users/cathy/Documents/GitHub/STEMI_Predictive_model/outcome/06_figures/tech_roadpath.png)
-
-**项目成果**：
-
-- 构建完整分析 Pipeline（数据清洗 → 80%以上高缺失变量剔除 → 多重插补 → 变量筛选 → 模型训练与验证）。
-- 系统比较 4 种变量集（Knockoff/Lasso/Union/Intersection）与 12 种模型（随机森林、XGBoost、LightGBM、CatBoost、逻辑回归、自适应线性回归等）。
-- **最优模型 (Knockoff + 自适应线性回归) 测试集 AUC 达到 0.7977**，显著优于 CRUSADE (0.659)、HAS‑BLED (0.612)、HEMORRHAGES (0.688) 等传统出血评分。
-- 创新处理真实世界缺失数据：引入自适应线性回归与模式子模型，无需预先插补即可利用缺失模式进行预测，避免插补误差。
-- 输出临床可解释的 11 个关键预测因子（入院 48h 内 PPI 使用、血肌酐、血红蛋白、直接胆红素、尿酸等），并通过 SHAP 分析和决策曲线证实模型在较宽阈值范围内具有正向净获益。
-
-**相关链接**：
-
-- [GitHub 项目仓库](https://github.com/Cathy-chenyx/STEMI_Predictive_model)
-
-### ACS 患者应激指标预后价值研究 – 多队列数据分析与风险预测
-
-**项目描述**：基于广东省人民医院 2010–2015 年 >4,000 例 ACS 住院患者真实世界数据，系统评估 7 个入院应激指标（HsCRP、BUN、CystatinC、NT-proBNP、Uric acid、WBC、Lactate）对短期及长期临床结局（全因死亡、MACE）的独立预测价值，为临床风险分层提供循证依据。
-
-**关键技术**：R、生存分析（KM + Cox 回归）、多因素 Logistic 回归、ROC 分析、糖尿病三水平分层编码、缺失模式分析
-
-**项目成果**：
-- 完成 ACS 全体、STEMI、UA+NSTEMI 三队列的完整分析流程（数据清洗 → 基线比较 → 单因素 → 多因素 → 综合模型 → ROC 分析）
-- 乳酸对 STEMI 长期死亡的 Cox 回归 HR = 1.21（95% CI 1.11–1.31），高乳酸组 KM 曲线在 30 天/1 年/3 年均显著高于低乳酸组
-- HsCRP、BUN、CystatinC、NT-proBNP 在多因素模型中对 Death/MACE 呈现独立预测价值；多个应激指标 AUC > 0.6
-- 建立规范的 R 脚本流程与函数库（14 个脚本），保证分析可复现性
-
-**项目链接**：[GitHub 仓库](https://github.com/Cathy-Chenyx/ACS_Analysis_Project)
-
-### 亚太地区消化道癌症负担 GBD 数据分析
-
-![【全球格局可视化】发病率与DALYs的全球区域异质性及长期趋势](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/%E3%80%90%E5%85%A8%E7%90%83%E6%A0%BC%E5%B1%80%E5%8F%AF%E8%A7%86%E5%8C%96%E3%80%91%E5%8F%91%E7%97%85%E7%8E%87%E4%B8%8EDALYs%E7%9A%84%E5%85%A8%E7%90%83%E5%8C%BA%E5%9F%9F%E5%BC%82%E8%B4%A8%E6%80%A7%E5%8F%8A%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF.png)
-
-**项目描述：** 基于全球疾病负担（GBD）数据，分析亚太地区消化道癌症的流行病学趋势与地区差异。
-
-**关键技术：** Joinpoint 回归、APC 分析、ICD-10 编码标准化、数据可视化
-
-**项目成果：** 识别关键趋势拐点（APC = -0.8%, p<0.05），构建 15+ 可视化图表支持决策
-
-**相关产出：** 《[统计建模-GBD疾病负担分析.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/统计建模_GBD疾病负担分析.pdf) 》
-
-### 游戏用户留存预测 – XGBoost 机器学习应用
-
-**项目描述：** 构建并部署用户流失预测系统，解决数据不平衡问题并实现高精度实时预测。
-
-**关键技术：** XGBoost、SMOTE、SHAP 可解释性分析、R-Shiny 部署
-
-**项目成果：** 准确率 91.18%，获 SAS 高校数据分析大赛全国二等奖
-
-**相关产出：** 《[游戏用户留存度预测分析.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/游戏用户留存度预测分析.pdf) 》
-
-**项目链接：** https://gameretainpredictlab.shinyapps.io/smu-XGboost/
-
-**扫码体验：**
-
-<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/1_1063825455_2504_77_3_1056231809_06bd831589811644abbd470e43a831a9.png" alt="XGBoost项目二维码" style="zoom:33%;" />
-
-### 心脏代谢疾病（CMD）动态预测模型开发
-
-**项目描述：** 构建联合模型，耦合纵向数据与生存数据，提升对时变变量的预测性能。
-
-**关键技术：** R、联合模型、动态预测、生存分析
-
-**项目成果：** 验证显示模型性能显著优于传统 Cox 模型
-
-### 其他学术产出（专业课程报告）
-
-- 《[生存分析-左截断数据基于面积法的假设检验方法](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/生存分析_左截断数据基于面积法的假设检验方法.pdf) 》
-
-- 《 [时间序列分析-循环神经网络模型的应用比较研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/时间序列分析_循环神经网络模型的应用比较研究.pdf) 》
-
-- 《[统计模拟-两阶段交叉设计率比较检验方法的模拟研究](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/统计模拟_两阶段交叉设计率比较检验方法的模拟研究.pdf) 》
-
-- 《 [遗传统计学_遗传变异的因果结构学习——基于双向介导MR（BIMMER)与结合图论和MVMR的因果网络修剪方法（MRSL）](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/遗传统计学_遗传变异的因果结构学习——基于双向介导MR（BIMMER)》
-
-  等共 9 篇专业文档（详见[【03项目证明】](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明)）
-
-### 个人写作与内容创作
-
-​	擅长通过文字探索叙事结构与情感共鸣，累计创作影评与游记数万字，单篇最高阅读量6,000+。具有出色的共情能力、逻辑分析与内容转化能力。
-
-精选作品：
-
-- **[《爱在黎明破晓前》｜有些人见一面，足够用一生去怀念](https://mp.weixin.qq.com/s/tN1r07jMXsnW2ksW_P9trg)**
-  
-  从情感叙事中提炼普世共鸣，以细腻笔触探讨瞬间与永恒的主题，展现深度思考与共情表达能力。
-  
-- **[香港游记｜露营徒步 Citywalk 一站式体验](https://www.mafengwo.cn/i/24514083.html)**
-  
-  融合行程规划、文化观察与实用攻略，结构清晰、信息密度高，具备强参考价值与传播性。
-  
-  
-
-#### 公众号【嗨森的糖罐子】｜原创内容输出
-
-<img src="https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/IMG_0819.JPG" alt="微信公众号" style="zoom:33%;" />
-
-​	持续输出**专业知识总结、项目经验与生活洞察**，构建个人内容体系与专业影响力。
-
-* 运营概览 (2025.09 - 2026.01)： 在半年时间内，累计发表原创内容 **20+ 篇**，内容覆盖专业课复习笔记（SAS语言、预防医学、生物信息学等）、考研英语资料（历年真题生词本、作文模板）、实用技能分享及深度游记等多个垂直领域。
-
-* **数据表现优异：**
-
-  **高频互动：** 其中《26考研 | 南方医应统｜我的考研这一年》单篇阅读达 **4759次**，互动积极。
-
-  **高分享价值：** 专业笔记类文章（如《数据管理期末复习》、《医院统计——期末复习》）均引发高比例分享，分享产生的阅读数分别达 350 和 151，表明内容具有强实用性与传播性，有效解决了同辈学习需求。
-
-  **用户增长：** 期间通过内容自然吸引关注，实现**持续净增粉**，体现了内容对目标受众的持续吸引力。
-
-* **核心能力体现**： 运营过程系统锻炼了内容规划、用户需求洞察、数据分析（通过后台数据优化选题）及多渠道推广的能力，将专业知识转化为具有影响力的数字内容资产。
-
-
-
-**代表性原创内容：**
-
-- 《[26应统考研全过程分享](https://mp.weixin.qq.com/s/9lZ0wqs8x-s5WFzpiLd-tg)》| **阅读量近5000、转发150+**
-- 《[专业课机器学习期末复习](https://mp.weixin.qq.com/s/K2wg8cWAtxniIJC9vjD7Sg)》｜原创技术笔记
-- 《[生物信息学：分子系统发育分析](https://mp.weixin.qq.com/s/eZFed-KVp0Nt3D1PeHARHA?token=726076116&lang=zh_CN)》｜实验方法与实操总结
-- 《[考研英语2020/2021生词本](https://mp.weixin.qq.com/s/_BbYKj5wy670RqbtBesmjw?token=726076116&lang=zh_CN)》｜系统整理高频考点，阅读破百
-- 《[专业课|SAS语言|大三上](https://mp.weixin.qq.com/s/pShkgxcW4FTI_nz01o8q3g)》｜最新专业课笔记
-- 《[海南东线自驾漫游记|美食与海浪皆不辜负](https://mp.weixin.qq.com/s/pShkgxcW4FTI_nz01o8q3g)》｜深度旅行记录
-
-## 国际经历与综合视野
-
-### **澳大利亚查尔斯特大学循证医学联合研学**
-
-![循证医学项目](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/循证医学项目.jpg)
-**项目时间**：2025年8月
-
-**项目主题**：循证医学、系统评价与Meta分析、机器学习在医学中的应用
-
-**合作院校**：澳大利亚查尔斯特大学（Charles Sturt University)
-
-​	作为生物统计学专业本科生，入选南方医科大学与澳大利亚查尔斯特大学（CSU）合作的**国际循证医学培训项目**，赴澳进行为期10天的沉浸式科研学习。项目聚焦系统评价、Meta分析、机器学习、纳米医学等前沿方法在医学研究中的应用，由包括**孙静教授（生物统计学首席教授）** 在内的多名国际知名学者亲自授课。
-
-#### 科研实践与产出
-
-- **小组课题**：《Interventions for post-traumatic growth in breast cancer patients: a meta-analysis》
-
-- **负责内容**：独立完成“Background & Objectives, Search Strategy, PICOS”部分的英文讲稿撰写与答辩汇报
-
-- **科研注册**：参与完成PROSPERO系统评价方案
-
-- **技能提升**：系统掌握EndNote文献管理、学术英语表达、跨文化团队协作能力
-
-  **PROSPERO系统评价方案 ：** [PROSPERO注册文件.pdf](https://github.com/Cathy-Chenyx/chenyixin-portfolio/blob/main/03项目证明/循证医学项目_PROSPERO.pdf)
-
-### **个人旅行地图**
-
-**“在行走中构建认知，在叙事中沉淀思考”**
-
-​	具备出色的**复杂项目规划与执行能力**，善于在不确定环境中达成目标。累计深度探访 **12 国 57 城**，独立完成多次跨国深度旅行，系统性锻炼了**全流程项目管理、资源整合与跨文化适应能力**，并将见闻与思考沉淀为 **4.8万余字游记**。
-
-🌐 **旅行主页**：[马蜂窝｜陈奕昕的旅行笔记](https://www.mafengwo.cn/u/58350948/note.html)
-
-![总计](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260204191229562.png)
-
-#### **星级认证游记**
-
-- **[环岛自驾，奔赴山海与人间烟火——11天海南深度旅行笔记](https://www.mafengwo.cn/i/24805402.html)**
-
-  **平台认证**：⭐ **马蜂窝“星级游记”**
-
-  **核心亮点**：独立策划并执行长达6天、超600公里的海南环岛自驾路线。精准统筹租车、住宿、特色体验与多类型餐饮，行程涵盖海滨度假、雨林探秘、文化古镇与在地市集。内容结构严谨、信息详实、图片精美，展现了卓越的复杂行程规划、资源整合与叙事能力。
-
-  **数据表现**：浏览量 **5,000+**，互动数据优异，内容价值获平台官方认可。
-
-  ![最新海南游记](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/image-20260120121148915-20260120130056235.png)
-
-#### **精选跨国与主题游记**
-
-- **[新马泰10日游｜暴走、美食与奇遇记](https://www.mafengwo.cn/i/24801513.html)**
-
-  **核心亮点**：高效串联新加坡、马来西亚、泰国三国核心体验。在紧凑行程中完成城市探索、文化打卡与特色美食收集，展现了强大的多任务管理、快速适应与跨文化沟通能力。
-
-- **[俄罗斯十日双城记 | 莫斯科&圣彼得堡文化探秘](https://www.mafengwo.cn/i/24374668.html)**
-
-  **核心亮点**：独立规划并执行“莫斯科-圣彼得堡”双城文化动线，涵盖克里姆林宫、冬宫等核心地标与在地体验，完成从签证、交通到俄语基础沟通的全流程自主管理。
-
-- **[日本白马滑雪行 | 一周雪场独立规划与体验](https://www.mafengwo.cn/i/24644042.html)**
-
-  **核心亮点**：以滑雪为主题整合交通、住宿与雪场课程，在语言不通的环境中完成多城市接驳与雪具调度。
-
-- **[香港三天两夜 | 露营徒步与城市漫步一站式体验](https://www.mafengwo.cn/i/24514083.html)**
-
-  **核心亮点**：设计并实践“自然+城市”复合行程，在有限时间内完成大屿山徒步、市区文化探访与露营体验，体现高效的时间管理与动线组织能力。
-
-- **[河南文化寻根 | 古都历史脉络与现代风貌探索](https://www.mafengwo.cn/i/24618237.html)**
-
-  **核心亮点**：以“文化脉络”为主线串联郑州、开封、洛阳三地，通过深度调研与现场观察，完成从文物解读到地方记忆的连贯内容输出。
-
-**总计**：已发布 **6 篇** 完整游记，内容覆盖亚洲、欧洲等多地，持续记录与分享独特的旅行视角与实用攻略。
-
-![足迹](https://gitee.com/Cathy_chenyx/my-wechat-images/raw/master/images/IMG_0821.png)
-
-------
-
-## 联系方式
-
-- **邮箱**: 3227042017@i.smu.edu.cn
-- **手机**: 133-0291-1809
-- **作品集**: [GitHub Portfolio](https://github.com/Cathy-Chenyx/chenyixin-portfolio)
+The goal is not to display everything I have done, but to make the most relevant work easy to understand and easy to verify.
