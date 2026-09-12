@@ -4,7 +4,7 @@
 
 M.S. student in Applied Statistics at Southern Medical University with an undergraduate background in Biostatistics. My interests sit at the intersection of clinical research, real-world data / real-world evidence (RWD/RWE), statistical modeling, healthcare research, and AI-assisted research workflows.
 
-> This repository is a curated portfolio index connecting selected projects, experiences and supporting evidence. Detailed credential files are maintained separately from the main storefront.
+> This repository is the **evidence layer** of my portfolio: selected projects and experiences are highlighted here, while detailed certificates, transcripts, awards and supporting materials remain organized in the folders below.
 
 [中文版本](README.md)
 
@@ -43,6 +43,7 @@ Developed an interpretable prediction workflow for in-hospital gastrointestinal 
 Analyzed the burden and long-term trends of major gastrointestinal cancers using GBD data, including preprocessing, age-standardized measures, EAPC, SDI comparisons, age / regional subgroup analyses, global mapping and exploratory time-series forecasting.
 
 - [GitHub Repository](https://github.com/Cathy-chenyx/gastrointestinal_cancer_GBD)
+- [Supporting Report](03项目证明/统计建模_GBD疾病负担分析.pdf)
 
 ---
 
@@ -82,7 +83,33 @@ Building capabilities in healthcare industry research, market structure and comp
 - **Southern Medical University First-Class Scholarship**
 - **National College Career Planning Competition — Provincial Bronze Award**
 
-Supporting documents are curated separately; this landing page prioritizes the strongest signals rather than exposing every original certificate or administrative record.
+Full supporting materials are kept in the evidence folders below rather than expanded on this landing page.
+
+---
+
+## 📁 Evidence Hub
+
+Supporting materials are organized by category so the README can stay concise.
+
+### 🎓 01｜Professional & Academic Evidence
+Transcripts, certifications and language / technical credentials.
+
+- [Open folder](01专业能力)
+
+### 🏆 02｜Awards & Honors
+Academic competitions, university honors and athletics achievements.
+
+- [Open folder](02荣誉奖项)
+
+### 📊 03｜Project Evidence
+Selected reports, competition submissions and project deliverables that support the project summaries above.
+
+- [Open folder](03项目证明)
+
+### 📎 04｜Supplementary Materials
+Additional campus, sports and supporting evidence useful for verification but not central to the main portfolio story.
+
+- [Open folder](04补充材料)
 
 ---
 
@@ -104,8 +131,8 @@ These experiences shape how I think about teamwork, discipline, curiosity and ex
 
 ### Repository role
 
-**Portfolio / Notion** → tells the broader story  
-**Project repositories** → show code, methods and reproducible work  
-**This repository** → serves as the curated public index
+**Portfolio / Notion** → tells the story  
+**Project repositories** → show the code and methods  
+**This repository** → provides the supporting evidence
 
 The goal is not to display everything I have done, but to make the most relevant work easy to understand and easy to verify.
