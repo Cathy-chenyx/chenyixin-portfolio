@@ -126,7 +126,7 @@ These experiences are part of how I think about teamwork, discipline, curiosity 
 ## 📫 Contact
 
 - **GitHub:** [Cathy-chenyx](https://github.com/Cathy-chenyx)
-- **Email:** 3227042017@i.smu.edu.cn
+- **Email:** cathy_chenyx@smu.edu.cn
 - **LinkedIn:** [陈奕昕 / Yixin Chen](https://www.linkedin.com/in/%E5%A5%95%E6%98%95-%E9%99%88-1a809b36a)
 
 ---
